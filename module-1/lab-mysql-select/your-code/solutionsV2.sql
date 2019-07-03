@@ -24,10 +24,11 @@ ORDER BY Titres desc, au_id LIMIT 3;
 
 -- Challenge 4
 select
-a.au_lname, a.au_fname, t.title, sum(t.ytd_sales) as Sales
+ta.au_id, a.au_lname, a.au_fname, t.title, ifnull(sum(s.qty),0) as Sales
 from authors a
 left join titleauthor ta on ta.au_id = a.au_id
 left join titles t on t.title_id = ta.title_id
+left join sales s on s.title_id = t.title_id
 group by a.au_id, t.title
 order by Sales desc
 ;
