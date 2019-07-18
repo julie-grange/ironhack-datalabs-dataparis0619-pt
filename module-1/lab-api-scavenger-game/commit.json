@@ -1,0 +1,881 @@
+[
+  {
+    "sha": "0f04f2f5dc6e8e471ac47243b1c1d7a0a7cad102",
+    "node_id": "MDY6Q29tbWl0MTg4ODA2NTUwOjBmMDRmMmY1ZGM2ZThlNDcxYWM0NzI0M2IxYzFkN2EwYTdjYWQxMDI=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-22T21:32:46Z"
+      },
+      "committer": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-22T21:32:46Z"
+      },
+      "message": "fix inconsistencies in hypothesis testing and 2-sample testing labs",
+      "tree": {
+        "sha": "ec24b0271a96643bd79aeef7d182b1d94d5a359a",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/trees/ec24b0271a96643bd79aeef7d182b1d94d5a359a"
+      },
+      "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/commits/0f04f2f5dc6e8e471ac47243b1c1d7a0a7cad102",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/0f04f2f5dc6e8e471ac47243b1c1d7a0a7cad102",
+    "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/0f04f2f5dc6e8e471ac47243b1c1d7a0a7cad102",
+    "comments_url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/0f04f2f5dc6e8e471ac47243b1c1d7a0a7cad102/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "21ed2630fcd3620bf68837b42dd6a7f09f0ab104",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/21ed2630fcd3620bf68837b42dd6a7f09f0ab104",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/21ed2630fcd3620bf68837b42dd6a7f09f0ab104"
+      }
+    ]
+  },
+  {
+    "sha": "21ed2630fcd3620bf68837b42dd6a7f09f0ab104",
+    "node_id": "MDY6Q29tbWl0MTg4ODA2NTUwOjIxZWQyNjMwZmNkMzYyMGJmNjg4MzdiNDJkZDZhN2YwOWYwYWIxMDQ=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-21T21:02:16Z"
+      },
+      "committer": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-21T21:02:16Z"
+      },
+      "message": "updated poker lab due to lesson change",
+      "tree": {
+        "sha": "712c8af7c71948d6f7ec9b551a2f003b64fb576c",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/trees/712c8af7c71948d6f7ec9b551a2f003b64fb576c"
+      },
+      "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/commits/21ed2630fcd3620bf68837b42dd6a7f09f0ab104",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/21ed2630fcd3620bf68837b42dd6a7f09f0ab104",
+    "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/21ed2630fcd3620bf68837b42dd6a7f09f0ab104",
+    "comments_url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/21ed2630fcd3620bf68837b42dd6a7f09f0ab104/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "59badaef6032bdd59d2cb6622bc45a9aff6af03a",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/59badaef6032bdd59d2cb6622bc45a9aff6af03a",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/59badaef6032bdd59d2cb6622bc45a9aff6af03a"
+      }
+    ]
+  },
+  {
+    "sha": "59badaef6032bdd59d2cb6622bc45a9aff6af03a",
+    "node_id": "MDY6Q29tbWl0MTg4ODA2NTUwOjU5YmFkYWVmNjAzMmJkZDU5ZDJjYjY2MjJiYzQ1YTlhZmY2YWYwM2E=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou@ironhack.com",
+        "date": "2019-05-20T19:46:31Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-05-20T19:46:31Z"
+      },
+      "message": "Merge pull request #29 from ironhack-labs/haggarw3\n\nVehicles Dataset Added",
+      "tree": {
+        "sha": "c7475fc04aed8458a402e49ac7a58740c82e74db",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/trees/c7475fc04aed8458a402e49ac7a58740c82e74db"
+      },
+      "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/commits/59badaef6032bdd59d2cb6622bc45a9aff6af03a",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJc4wQXCRBK7hj4Ov3rIwAAdHIIAGYvlV6KvIaoRD4cdLYQsId5\nzaR25cTiV141TLFrkk3fhJSIc11vrk6dg7BTFZ/AUwv7sMt/x45ALet6gPYa+VHq\nR72BB6mWglekd3KhKW0KFEwO90F1N+PIs/WvgNXM4EhcQ4/ddti3kU44mvBq1+Hc\ntYqmfY0mbAF71/h+TS2xCBVvyhJGv2v1FZsB0X9CHoy+dmH0kEM9+qdK9cXjC8J5\niv4J8hSvzDjlWF9aCIZamiHjsbJk4WL2gtNzSPNxb57rXjYpV+Aqk6sY6W9ZnM4y\ncSjUzCSYKNz8zKPDkQiqNNS7PGC7K3ARb09pKtx459dbKl3sXLtIHY2FHgo0wtI=\n=YKZP\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree c7475fc04aed8458a402e49ac7a58740c82e74db\nparent 5b95caec584324f06ad9fa3d08817857ebb2d11a\nparent e6b71a7c95d6423d23b684f738f765bf41d2642f\nauthor Zhou Zhou <zhou@ironhack.com> 1558381591 -0400\ncommitter GitHub <noreply@github.com> 1558381591 -0400\n\nMerge pull request #29 from ironhack-labs/haggarw3\n\nVehicles Dataset Added"
+      }
+    },
+    "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/59badaef6032bdd59d2cb6622bc45a9aff6af03a",
+    "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/59badaef6032bdd59d2cb6622bc45a9aff6af03a",
+    "comments_url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/59badaef6032bdd59d2cb6622bc45a9aff6af03a/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5b95caec584324f06ad9fa3d08817857ebb2d11a",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/5b95caec584324f06ad9fa3d08817857ebb2d11a",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/5b95caec584324f06ad9fa3d08817857ebb2d11a"
+      },
+      {
+        "sha": "e6b71a7c95d6423d23b684f738f765bf41d2642f",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/e6b71a7c95d6423d23b684f738f765bf41d2642f",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/e6b71a7c95d6423d23b684f738f765bf41d2642f"
+      }
+    ]
+  },
+  {
+    "sha": "e6b71a7c95d6423d23b684f738f765bf41d2642f",
+    "node_id": "MDY6Q29tbWl0MTg4ODA2NTUwOmU2YjcxYTdjOTVkNjQyM2QyM2I2ODRmNzM4Zjc2NWJmNDFkMjY0MmY=",
+    "commit": {
+      "author": {
+        "name": "Himanshu Aggarwal",
+        "email": "haggarw3@asu.edu",
+        "date": "2019-05-17T16:36:02Z"
+      },
+      "committer": {
+        "name": "Himanshu Aggarwal",
+        "email": "haggarw3@asu.edu",
+        "date": "2019-05-17T16:36:02Z"
+      },
+      "message": "Vehicles Dataset Added",
+      "tree": {
+        "sha": "c7475fc04aed8458a402e49ac7a58740c82e74db",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/trees/c7475fc04aed8458a402e49ac7a58740c82e74db"
+      },
+      "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/commits/e6b71a7c95d6423d23b684f738f765bf41d2642f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/e6b71a7c95d6423d23b684f738f765bf41d2642f",
+    "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/e6b71a7c95d6423d23b684f738f765bf41d2642f",
+    "comments_url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/e6b71a7c95d6423d23b684f738f765bf41d2642f/comments",
+    "author": {
+      "login": "haggarw3",
+      "id": 22273533,
+      "node_id": "MDQ6VXNlcjIyMjczNTMz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/22273533?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/haggarw3",
+      "html_url": "https://github.com/haggarw3",
+      "followers_url": "https://api.github.com/users/haggarw3/followers",
+      "following_url": "https://api.github.com/users/haggarw3/following{/other_user}",
+      "gists_url": "https://api.github.com/users/haggarw3/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/haggarw3/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/haggarw3/subscriptions",
+      "organizations_url": "https://api.github.com/users/haggarw3/orgs",
+      "repos_url": "https://api.github.com/users/haggarw3/repos",
+      "events_url": "https://api.github.com/users/haggarw3/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/haggarw3/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "haggarw3",
+      "id": 22273533,
+      "node_id": "MDQ6VXNlcjIyMjczNTMz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/22273533?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/haggarw3",
+      "html_url": "https://github.com/haggarw3",
+      "followers_url": "https://api.github.com/users/haggarw3/followers",
+      "following_url": "https://api.github.com/users/haggarw3/following{/other_user}",
+      "gists_url": "https://api.github.com/users/haggarw3/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/haggarw3/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/haggarw3/subscriptions",
+      "organizations_url": "https://api.github.com/users/haggarw3/orgs",
+      "repos_url": "https://api.github.com/users/haggarw3/repos",
+      "events_url": "https://api.github.com/users/haggarw3/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/haggarw3/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3e1142e4c75b0a6538e498aa0d46d5e3799663c1",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/3e1142e4c75b0a6538e498aa0d46d5e3799663c1",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/3e1142e4c75b0a6538e498aa0d46d5e3799663c1"
+      }
+    ]
+  },
+  {
+    "sha": "5b95caec584324f06ad9fa3d08817857ebb2d11a",
+    "node_id": "MDY6Q29tbWl0MTg4ODA2NTUwOjViOTVjYWVjNTg0MzI0ZjA2YWQ5ZmEzZDA4ODE3ODU3ZWJiMmQxMWE=",
+    "commit": {
+      "author": {
+        "name": "Himanshu Aggarwal",
+        "email": "haggarw3@asu.edu",
+        "date": "2019-05-17T15:39:01Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-05-17T15:39:01Z"
+      },
+      "message": "Merge pull request #28 from ironhack-labs/haggarw3\n\nQuestion added on EDA in challenge 1",
+      "tree": {
+        "sha": "d955774e6d42c4222351d7c16b2079ff477533c2",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/trees/d955774e6d42c4222351d7c16b2079ff477533c2"
+      },
+      "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/commits/5b95caec584324f06ad9fa3d08817857ebb2d11a",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJc3tWVCRBK7hj4Ov3rIwAAdHIIAFzmHUDzJMgr7eVKucPgAiZ6\nCYn54jTw5QVpdANUbQkeHKNr60Q020W33eILvVrx0t/nhwJHNOhNIAt9B9glMQPD\npxPT7SHffvUN+dOjYDKBtE8q9cRfgVzAQ/dMYXx8flbk4jaCGOTLEa7TCfQgnups\nmzV0Ei0yy40ryWJcaHMkHgh40iBvypeacXEVED3h/OPKvOj6dG2s9i47lgK4wRr9\ncrXuJmbV1y3LevV833qZ8GQWMEB07oRFm90k1m2ETH9MhB20DZ28f0PW5//slIdD\nL6QIrl9yGhnPEPeDCbxzwnCrtKhyq776K0ZRZ12S7fNCcqwqHiF0WefGU56/gv4=\n=b7Fo\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree d955774e6d42c4222351d7c16b2079ff477533c2\nparent 4803d068a6610a716ad5d7736d903464a0e3b413\nparent 3e1142e4c75b0a6538e498aa0d46d5e3799663c1\nauthor Himanshu Aggarwal <haggarw3@asu.edu> 1558107541 -0400\ncommitter GitHub <noreply@github.com> 1558107541 -0400\n\nMerge pull request #28 from ironhack-labs/haggarw3\n\nQuestion added on EDA in challenge 1"
+      }
+    },
+    "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/5b95caec584324f06ad9fa3d08817857ebb2d11a",
+    "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/5b95caec584324f06ad9fa3d08817857ebb2d11a",
+    "comments_url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/5b95caec584324f06ad9fa3d08817857ebb2d11a/comments",
+    "author": {
+      "login": "haggarw3",
+      "id": 22273533,
+      "node_id": "MDQ6VXNlcjIyMjczNTMz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/22273533?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/haggarw3",
+      "html_url": "https://github.com/haggarw3",
+      "followers_url": "https://api.github.com/users/haggarw3/followers",
+      "following_url": "https://api.github.com/users/haggarw3/following{/other_user}",
+      "gists_url": "https://api.github.com/users/haggarw3/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/haggarw3/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/haggarw3/subscriptions",
+      "organizations_url": "https://api.github.com/users/haggarw3/orgs",
+      "repos_url": "https://api.github.com/users/haggarw3/repos",
+      "events_url": "https://api.github.com/users/haggarw3/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/haggarw3/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4803d068a6610a716ad5d7736d903464a0e3b413",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/4803d068a6610a716ad5d7736d903464a0e3b413",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/4803d068a6610a716ad5d7736d903464a0e3b413"
+      },
+      {
+        "sha": "3e1142e4c75b0a6538e498aa0d46d5e3799663c1",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/3e1142e4c75b0a6538e498aa0d46d5e3799663c1",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/3e1142e4c75b0a6538e498aa0d46d5e3799663c1"
+      }
+    ]
+  },
+  {
+    "sha": "3e1142e4c75b0a6538e498aa0d46d5e3799663c1",
+    "node_id": "MDY6Q29tbWl0MTg4ODA2NTUwOjNlMTE0MmU0Yzc1YjBhNjUzOGU0OThhYTBkNDZkNWUzNzk5NjYzYzE=",
+    "commit": {
+      "author": {
+        "name": "Himanshu Aggarwal",
+        "email": "haggarw3@asu.edu",
+        "date": "2019-05-17T14:04:59Z"
+      },
+      "committer": {
+        "name": "Himanshu Aggarwal",
+        "email": "haggarw3@asu.edu",
+        "date": "2019-05-17T14:04:59Z"
+      },
+      "message": "Question added on EDA in challenge 1",
+      "tree": {
+        "sha": "d955774e6d42c4222351d7c16b2079ff477533c2",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/trees/d955774e6d42c4222351d7c16b2079ff477533c2"
+      },
+      "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/commits/3e1142e4c75b0a6538e498aa0d46d5e3799663c1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/3e1142e4c75b0a6538e498aa0d46d5e3799663c1",
+    "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/3e1142e4c75b0a6538e498aa0d46d5e3799663c1",
+    "comments_url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/3e1142e4c75b0a6538e498aa0d46d5e3799663c1/comments",
+    "author": {
+      "login": "haggarw3",
+      "id": 22273533,
+      "node_id": "MDQ6VXNlcjIyMjczNTMz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/22273533?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/haggarw3",
+      "html_url": "https://github.com/haggarw3",
+      "followers_url": "https://api.github.com/users/haggarw3/followers",
+      "following_url": "https://api.github.com/users/haggarw3/following{/other_user}",
+      "gists_url": "https://api.github.com/users/haggarw3/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/haggarw3/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/haggarw3/subscriptions",
+      "organizations_url": "https://api.github.com/users/haggarw3/orgs",
+      "repos_url": "https://api.github.com/users/haggarw3/repos",
+      "events_url": "https://api.github.com/users/haggarw3/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/haggarw3/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "haggarw3",
+      "id": 22273533,
+      "node_id": "MDQ6VXNlcjIyMjczNTMz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/22273533?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/haggarw3",
+      "html_url": "https://github.com/haggarw3",
+      "followers_url": "https://api.github.com/users/haggarw3/followers",
+      "following_url": "https://api.github.com/users/haggarw3/following{/other_user}",
+      "gists_url": "https://api.github.com/users/haggarw3/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/haggarw3/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/haggarw3/subscriptions",
+      "organizations_url": "https://api.github.com/users/haggarw3/orgs",
+      "repos_url": "https://api.github.com/users/haggarw3/repos",
+      "events_url": "https://api.github.com/users/haggarw3/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/haggarw3/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4803d068a6610a716ad5d7736d903464a0e3b413",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/4803d068a6610a716ad5d7736d903464a0e3b413",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/4803d068a6610a716ad5d7736d903464a0e3b413"
+      }
+    ]
+  },
+  {
+    "sha": "4803d068a6610a716ad5d7736d903464a0e3b413",
+    "node_id": "MDY6Q29tbWl0MTg4ODA2NTUwOjQ4MDNkMDY4YTY2MTBhNzE2YWQ1ZDc3MzZkOTAzNDY0YTBlM2I0MTM=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-15T13:53:32Z"
+      },
+      "committer": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-15T13:53:32Z"
+      },
+      "message": "fix typo",
+      "tree": {
+        "sha": "36733e2a1d36de014cb660f0ac94e854af390347",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/trees/36733e2a1d36de014cb660f0ac94e854af390347"
+      },
+      "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/commits/4803d068a6610a716ad5d7736d903464a0e3b413",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/4803d068a6610a716ad5d7736d903464a0e3b413",
+    "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/4803d068a6610a716ad5d7736d903464a0e3b413",
+    "comments_url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/4803d068a6610a716ad5d7736d903464a0e3b413/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6012f8851c7c210009dd897da727e3ba916682c9",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/6012f8851c7c210009dd897da727e3ba916682c9",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/6012f8851c7c210009dd897da727e3ba916682c9"
+      }
+    ]
+  },
+  {
+    "sha": "6012f8851c7c210009dd897da727e3ba916682c9",
+    "node_id": "MDY6Q29tbWl0MTg4ODA2NTUwOjYwMTJmODg1MWM3YzIxMDAwOWRkODk3ZGE3MjdlM2JhOTE2NjgyYzk=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-15T13:51:11Z"
+      },
+      "committer": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-15T13:51:11Z"
+      },
+      "message": "improve parsing api lab",
+      "tree": {
+        "sha": "b5725f805ce655efd32d1bfa90164856f4c7df55",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/trees/b5725f805ce655efd32d1bfa90164856f4c7df55"
+      },
+      "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/commits/6012f8851c7c210009dd897da727e3ba916682c9",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/6012f8851c7c210009dd897da727e3ba916682c9",
+    "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/6012f8851c7c210009dd897da727e3ba916682c9",
+    "comments_url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/6012f8851c7c210009dd897da727e3ba916682c9/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "663ea6b07f3a3f0419be69227f4abe2f0aeb37d5",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/663ea6b07f3a3f0419be69227f4abe2f0aeb37d5",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/663ea6b07f3a3f0419be69227f4abe2f0aeb37d5"
+      }
+    ]
+  },
+  {
+    "sha": "663ea6b07f3a3f0419be69227f4abe2f0aeb37d5",
+    "node_id": "MDY6Q29tbWl0MTg4ODA2NTUwOjY2M2VhNmIwN2YzYTNmMDQxOWJlNjkyMjdmNGFiZTJmMGFlYjM3ZDU=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-14T20:35:21Z"
+      },
+      "committer": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-14T20:35:21Z"
+      },
+      "message": "added parsing api lab",
+      "tree": {
+        "sha": "6eb5c200e37e2e2e07ed412a35340c6c82dad5da",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/trees/6eb5c200e37e2e2e07ed412a35340c6c82dad5da"
+      },
+      "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/commits/663ea6b07f3a3f0419be69227f4abe2f0aeb37d5",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/663ea6b07f3a3f0419be69227f4abe2f0aeb37d5",
+    "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/663ea6b07f3a3f0419be69227f4abe2f0aeb37d5",
+    "comments_url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/663ea6b07f3a3f0419be69227f4abe2f0aeb37d5/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "04865db37ba652fb0cb9569dc526cf874f663784",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/04865db37ba652fb0cb9569dc526cf874f663784",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/04865db37ba652fb0cb9569dc526cf874f663784"
+      }
+    ]
+  },
+  {
+    "sha": "04865db37ba652fb0cb9569dc526cf874f663784",
+    "node_id": "MDY6Q29tbWl0MTg4ODA2NTUwOjA0ODY1ZGIzN2JhNjUyZmIwY2I5NTY5ZGM1MjZjZjg3NGY2NjM3ODQ=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-10T22:09:41Z"
+      },
+      "committer": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-10T22:09:41Z"
+      },
+      "message": "minor improvement python project",
+      "tree": {
+        "sha": "7033567d1c6ad81394437055842687073d9b9c34",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/trees/7033567d1c6ad81394437055842687073d9b9c34"
+      },
+      "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/commits/04865db37ba652fb0cb9569dc526cf874f663784",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/04865db37ba652fb0cb9569dc526cf874f663784",
+    "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/04865db37ba652fb0cb9569dc526cf874f663784",
+    "comments_url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/04865db37ba652fb0cb9569dc526cf874f663784/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e2af5a505316f4942076cee09abb75d4900dc212",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/e2af5a505316f4942076cee09abb75d4900dc212",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/e2af5a505316f4942076cee09abb75d4900dc212"
+      }
+    ]
+  },
+  {
+    "sha": "e2af5a505316f4942076cee09abb75d4900dc212",
+    "node_id": "MDY6Q29tbWl0MTg4ODA2NTUwOmUyYWY1YTUwNTMxNmY0OTQyMDc2Y2VlMDlhYmI3NWQ0OTAwZGMyMTI=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-10T21:52:36Z"
+      },
+      "committer": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-05-10T21:52:36Z"
+      },
+      "message": "python project",
+      "tree": {
+        "sha": "d02fb12342ee6f5f7145a8b64b35b9cba0954f9e",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/trees/d02fb12342ee6f5f7145a8b64b35b9cba0954f9e"
+      },
+      "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/git/commits/e2af5a505316f4942076cee09abb75d4900dc212",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/e2af5a505316f4942076cee09abb75d4900dc212",
+    "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/e2af5a505316f4942076cee09abb75d4900dc212",
+    "comments_url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/e2af5a505316f4942076cee09abb75d4900dc212/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7473d69ecd2ee9b98cb5cbf7964c90dd567dc13c",
+        "url": "https://api.github.com/repos/mayadesp/ironhack-datalabs-dataparis0619-pt/commits/7473d69ecd2ee9b98cb5cbf7964c90dd567dc13c",
+        "html_url": "https://github.com/mayadesp/ironhack-datalabs-dataparis0619-pt/commit/7473d69ecd2ee9b98cb5cbf7964c90dd567dc13c"
+      }
+    ]
+  }
+]
